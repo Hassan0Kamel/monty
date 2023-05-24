@@ -12,7 +12,7 @@ void f_pstr(stack_t **head, unsigned int counter)
 	stack_t *m;
 	(void)counter;
 
-	h = *head;
+	m = *head;
 	while (m)
 	{
 		if (m->n > 127 || m->n <= 0)
