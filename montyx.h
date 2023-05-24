@@ -12,7 +12,7 @@
  * struct stack_s - doublon of a stack (or queue)
  * @n: inte
  * @prev: points to t of the stack (or queue)
- * @next: points to 
+ * @next: points to
  * Description: doubFO Holberton project
  */
 
